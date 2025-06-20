@@ -1,8 +1,19 @@
-Header
+# Hi, I'm Daniil 👋  
+### QA Engineer | Tester 
 
-About me
+Passionate about ensuring software quality and user satisfaction.  
+Currently open to new opportunities and eager to contribute to a great team. 
 
-### Languages and Tools
+## 👨‍💻 About Me
+
+- 🎯 I’m currently learning and practicing QA testing  
+- 🐞 Writing test cases, testing web apps, documenting bugs   
+- 🚀 I improve my skills every day and strive to become a strong QA specialist  
+- 🧠 I value clarity, logic, and continuous improvement in everything I do 
+- 💡 Curious by nature — I enjoy figuring out how things work and making them better  
+- 🤝 Open to collaboration, feedback, and new challenges  
+
+## 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=for-the-badge)
 ![html](https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML5&style=for-the-badge&logoColor=white)
@@ -20,8 +31,15 @@ About me
 ![Devtools](https://img.shields.io/badge/Devtools-0A0A0A?style=for-the-badge&logoColor=white)
 ![Soap UI](https://img.shields.io/badge/SOAPUI-FFFF00?style=for-the-badge&logoColor=white)
 
-### Contacts
-![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=GitHub&style=for-the-badge&logoColor=white)
-![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=for-the-badge&logoColor=fff)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white)
-![ВК](https://img.shields.io/badge/вк-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)
+## 💼 Portfolio
+
+### Building up my skills and projects — portfolio will be ready shortly.
+
+## 📞 Contacts
+[![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=GitHub&style=for-the-badge&logoColor=white)](https://github.com/daniilg17)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=for-the-badge&logoColor=fff)](https://www.linkedin.com/in/daniilg17/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white)](https://t.me/daniilg17)
+[![VK](https://img.shields.io/badge/VK-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/daniilg17)
+
+## 📊 Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniilg17&show_icons=true&theme=radical)](https://github.com/daniilg17/github-readme-stats)
