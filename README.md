@@ -13,6 +13,11 @@ Currently open to new opportunities and eager to contribute to a great team.
 - 💡 Curious by nature — I enjoy figuring out how things work and making them better  
 - 🤝 Open to collaboration, feedback, and new challenges  
 
+## My CV
+
+- [Resume in English (PDF)](https://drive.google.com/file/d/1ioKmb7_jReHHyJoXVk8hvfBSNNj3CJYC/view?usp=sharing)  
+- [Резюме на русском (PDF)](https://drive.google.com/file/d/1fdz3Xo72jTe3AeMTC_0dPpxv78iYIsut/view?usp=sharing)
+
 ## 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=for-the-badge)
