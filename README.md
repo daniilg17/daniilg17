@@ -41,7 +41,7 @@ Currently open to new opportunities and eager to contribute to a great team.
 - [Website car catalog](https://github.com/daniilg17/cars)
 - [Checklist for form testing](https://github.com/daniilg17/checklist)
 - [Git](https://github.com/daniilg17/Git)
-- [API testing (Postman)](https://github.com/daniilg17/Postman})
+- [API testing (Postman)](https://github.com/daniilg17/Postman)
 
 ### Building up my skills and projects — portfolio will be ready shortly.
 
