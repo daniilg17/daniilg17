@@ -15,8 +15,9 @@ Currently open to new opportunities and eager to contribute to a great team.
 
 ## My CV
 
-- [Resume in English (PDF)](https://drive.google.com/file/d/1ioKmb7_jReHHyJoXVk8hvfBSNNj3CJYC/view?usp=sharing)  
-- [Резюме на русском (PDF)](https://drive.google.com/file/d/1fdz3Xo72jTe3AeMTC_0dPpxv78iYIsut/view?usp=sharing)
+- [Resume in English (PDF)](https://drive.google.com/file/d/11rZXO1HD86PVRmpeTN2IFyPhqgiV_Q67/view?usp=sharing)  
+- [Резюме на русском (PDF)](https://drive.google.com/file/d/14RBx6XnZDa5wID6b0tGf_QORtlInuQ7D/view?usp=sharing)
+
 
 ## 🛠️ Languages and Tools
 
@@ -35,6 +36,19 @@ Currently open to new opportunities and eager to contribute to a great team.
 ![JSON](https://img.shields.io/badge/JSON-696969?logo=json&style=for-the-badge&logoColor=fff)
 ![Devtools](https://img.shields.io/badge/Devtools-0A0A0A?style=for-the-badge&logoColor=white)
 ![Soap UI](https://img.shields.io/badge/SOAPUI-FFFF00?style=for-the-badge&logoColor=white)
+
+## 📚 Courses & Certificates
+
+I’m constantly expanding my knowledge through self-education and hands-on practice.
+Below are the main topics I’ve covered and confirmed with certificates:
+
+* Manual QA Testing: SDLC, STLC, bug reports, test cases, checklists
+* Test Design Techniques: Equivalence Classes, Boundary Values, Pairwise
+* API Testing with Postman, JSON, REST, Auth
+* Basics of SQL, Python, HTML/CSS, DevTools
+* Working with tools: Git, Jira, Bash, CMS, WordPress
+
+📁 [Repository with certificates and course results](https://github.com/daniilg17/certificates)
 
 ## 💼 Portfolio
 
