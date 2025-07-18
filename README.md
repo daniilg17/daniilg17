@@ -52,11 +52,12 @@ Below are the main topics I’ve covered and confirmed with certificates:
 
 ## 💼 Portfolio
 
-- [Checklist for form testing](https://github.com/daniilg17/checklist)
-- [API testing (Postman)](https://github.com/daniilg17/Postman)
-- [Website car catalog](https://github.com/daniilg17/cars)
-- [SQL](https://github.com/daniilg17/SQL)
-- [Git](https://github.com/daniilg17/Git)
+- [Testing website](https://github.com/daniilg17/testing-website) - Manual testing examples for Ozon using popular QA tools.
+- [Checklist for form testing](https://github.com/daniilg17/checklist) - Manual testing checklist for form validation, security and accessibility.
+- [API testing (Postman)](https://github.com/daniilg17/Postman) - API tests for RESTful Booker with positive/negative cases and Postman collection.
+- [Website car catalog](https://github.com/daniilg17/cars) - Simple car catalog site using HTML, CSS, JS.
+- [SQL](https://github.com/daniilg17/SQL) - Basic SQL queries and tasks for practicing SELECT, JOIN, and filtering.
+- [Git](https://github.com/daniilg17/Git) - Git command examples for version control: init, commit, push, branch, etc.
 
 ### Building up my skills and projects — portfolio will be ready shortly.
 
