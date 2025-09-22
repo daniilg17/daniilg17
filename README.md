@@ -15,8 +15,8 @@ Currently open to new opportunities and eager to contribute to a great team.
 
 ## My CV
 
-- [Resume in English (PDF)](https://drive.google.com/file/d/1SpL2YPSHXQBL3UKK1DCumQiHkI3lxnS9/view?usp=sharing)  
-- [Резюме на русском (PDF)](https://drive.google.com/file/d/18M0uTVyBpnQtz_fZLlLcm17SR_sKwO4K/view?usp=sharing)
+- [Resume in English (PDF)](https://drive.google.com/file/d/1ZsV79r77SYmUh3x_fnTXEby_22RoVZtv/view?usp=sharing)  
+- [Резюме на русском (PDF)](https://drive.google.com/file/d/1qc_Uc6DQstXX2aHBbPDIlhzKa1VjBtxU/view?usp=sharing)
 
 
 ## 🛠️ Languages and Tools
