@@ -61,7 +61,7 @@
 📁 [Подробнее о проектах, тестовых заданиях и других работах](https://github.com/daniilg17/portfolio)
 
 ## 📞 Контакты
-![Email](https://img.shields.io/badge/GASANOV.DANYA2017@YANDEX.RU-0A0A0A?style=for-the-badge&logoColor=white)
+[![Email](https://img.shields.io/badge/GASANOV.DANYA2017@YANDEX.RU-0A0A0A?style=for-the-badge&logoColor=white)](https://mail.yandex.ru)
 [![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=GitHub&style=for-the-badge&logoColor=white)](https://github.com/daniilg17)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=for-the-badge&logoColor=fff)](https://www.linkedin.com/in/daniilg17/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white)](https://t.me/daniilg17)
