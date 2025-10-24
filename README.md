@@ -13,7 +13,7 @@
 - 💡 Люблю разбираться, как всё устроено, и находить способы сделать лучше
 - 🤝 Открыт к сотрудничеству, обратной связи и новым вызовам
 
-### Моё резюме - https://drive.google.com/file/d/1AipfaqAWu9zKSMjIacn8FBZLt8hC_pFL/view?usp=drive_link
+**Моё резюме - https://drive.google.com/file/d/1AipfaqAWu9zKSMjIacn8FBZLt8hC_pFL/view?usp=drive_link**
 
 ## 🛠️ Languages and Tools
 
