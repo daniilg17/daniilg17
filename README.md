@@ -1,23 +1,19 @@
-# Hi, I'm Daniil 👋  
-### QA Engineer | Tester 
+# Привет, я Даниил 👋  
+### QA Engineer | Тестировщик
 
-Passionate about ensuring software quality and user satisfaction.  
-Currently open to new opportunities and eager to contribute to a great team. 
+Увлекаюсь QA и люблю делать продукт лучше.
+Сейчас ищу команду, где смогу применить свои навыки, развиваться и приносить реальную пользу.
 
-## 👨‍💻 About Me
+## 👨‍💻 Обо мне
 
-- 🎯 I’m currently learning and practicing QA testing  
-- 🐞 Writing test cases, testing web apps, documenting bugs   
-- 🚀 I improve my skills every day and strive to become a strong QA specialist  
-- 🧠 I value clarity, logic, and continuous improvement in everything I do 
-- 💡 Curious by nature — I enjoy figuring out how things work and making them better  
-- 🤝 Open to collaboration, feedback, and new challenges  
+- 🎯 В настоящее время активно изучаю и практикую тестирование ПО
+- 🐞 Пишу тест-кейсы, тестирую веб-приложения, оформляю баг-репорты
+- 🚀 Каждый день развиваю навыки и стремлюсь стать сильным QA-специалистом
+- 🧠 Ценю логику, системность и постоянное совершенствование
+- 💡 Люблю разбираться, как всё устроено, и находить способы сделать лучше
+- 🤝 Открыт к сотрудничеству, обратной связи и новым вызовам
 
-## My CV
-
-- [Resume in English (PDF)](https://drive.google.com/file/d/1ZsV79r77SYmUh3x_fnTXEby_22RoVZtv/view?usp=sharing)  
-- [Резюме на русском (PDF)](https://drive.google.com/file/d/1qc_Uc6DQstXX2aHBbPDIlhzKa1VjBtxU/view?usp=sharing)
-
+### Моё резюме - https://drive.google.com/file/d/1AipfaqAWu9zKSMjIacn8FBZLt8hC_pFL/view?usp=drive_link
 
 ## 🛠️ Languages and Tools
 
@@ -34,38 +30,41 @@ Currently open to new opportunities and eager to contribute to a great team.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-767C52?logo=xml&style=for-the-badge&logoColor=fff)
 ![JSON](https://img.shields.io/badge/JSON-696969?logo=json&style=for-the-badge&logoColor=fff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Devtools](https://img.shields.io/badge/Devtools-0A0A0A?style=for-the-badge&logoColor=white)
 ![Soap UI](https://img.shields.io/badge/SOAPUI-FFFF00?style=for-the-badge&logoColor=white)
 
-## 📚 Courses & Certificates
+## 📚 Курсы и сертификаты
 
-I’m constantly expanding my knowledge through self-education and hands-on practice.
-Below are the main topics I’ve covered and confirmed with certificates:
+Я постоянно развиваюсь, обучаясь самостоятельно и через практику.
+Ниже — ключевые направления, которые я прошёл и подтвердил сертификатами:
 
-* Manual QA Testing: SDLC, STLC, bug reports, test cases, checklists
-* Test Design Techniques: Equivalence Classes, Boundary Values, Pairwise
-* API Testing with Postman, JSON, REST, Auth
-* Basics of SQL, Python, HTML/CSS, DevTools
-* Working with tools: Git, Jira, Bash, CMS, WordPress
+* Ручное тестирование: SDLC, STLC, баг-репорты, тест-кейсы, чек-листы
+* Тест-дизайн: классы эквивалентности, граничные значения, Pairwise
+* API-тестирование через Postman, JSON, REST, авторизацию
+* Основы SQL, Python, HTML/CSS, DevTools
+* Работа с инструментами: Git, Jira, Bash, CMS, WordPress
 
-📁 [Repository with certificates and course results](https://github.com/daniilg17/certificates)
+📁 [Подробнее о пройденных курсах](https://github.com/daniilg17/certificates)
 
-## 💼 Portfolio
+## 💼 Портфолио
 
-- [Testing website](https://github.com/daniilg17/testing-website) - Manual testing examples for Ozon using popular QA tools.
-- [Checklist for form testing](https://github.com/daniilg17/checklist) - Manual testing checklist for form validation, security and accessibility.
-- [API testing (Postman)](https://github.com/daniilg17/Postman) - API tests for RESTful Booker with positive/negative cases and Postman collection.
-- [Website car catalog](https://github.com/daniilg17/cars) - Simple car catalog site using HTML, CSS, JS.
-- [SQL](https://github.com/daniilg17/SQL) - Basic SQL queries and tasks for practicing SELECT, JOIN, and filtering.
-- [Git](https://github.com/daniilg17/Git) - Git command examples for version control: init, commit, push, branch, etc.
+В каждом проекте отражены примеры тестовой документации, оформления баг-репортов, проведения тестирования и выполнения тестовых заданий.
 
-### Building up my skills and projects — portfolio will be ready shortly.
+* Тестирование веб-приложений (Ozon) — тест-кейсы, чек-листы, баг-репорты
+* Чек-листы и тестирование форм — валидация, UX, доступность, безопасность
+* API-тестирование через Postman — позитивные и негативные сценарии
+* SQL-запросы — выборка, фильтрация, объединения, агрегации
+* Git — базовые и продвинутые команды для работы с версиями
 
-## 📞 Contacts
+📁 [Подробнее о проектах, тестовых заданиях и других работах](https://github.com/daniilg17/portfolio)
+
+## 📞 Контакты
 [![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=GitHub&style=for-the-badge&logoColor=white)](https://github.com/daniilg17)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=for-the-badge&logoColor=fff)](https://www.linkedin.com/in/daniilg17/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white)](https://t.me/daniilg17)
 [![VK](https://img.shields.io/badge/VK-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/daniilg17)
 
-## 📊 Stats
+## 📊 Статистика
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniilg17&show_icons=true&theme=radical)](https://github.com/daniilg17/github-readme-stats)
