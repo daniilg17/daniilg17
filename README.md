@@ -57,11 +57,13 @@
 * API-тестирование через Postman — позитивные и негативные сценарии
 * SQL-запросы — выборка, фильтрация, объединения, агрегации
 * Git — базовые и продвинутые команды для работы с версиями
+* Сайт автокаталога – верстка по готовому шаблону с применением HTML, CSS, JavaScript, адаптация под Angular.
+* Тестирование игры Dead Weight - баг-репорты, проверка геймплея, интерфейса, UI/UX, логики уровней, системы достижений и сохранений.
+* Тестирование мобильной игры Spider Fighter 3 - баг-репорты (UI, UX, логические, визуальные и функциональные дефекты), тестирование с использованием Android Studio.
 
 📁 [Подробнее о проектах, тестовых заданиях и других работах](https://github.com/daniilg17/portfolio)
 
 ## 📞 Контакты
-[![Email](https://img.shields.io/badge/GASANOV.DANYA2017@YANDEX.RU-0A0A0A?style=for-the-badge&logoColor=white)](https://mail.yandex.ru)
 [![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=GitHub&style=for-the-badge&logoColor=white)](https://github.com/daniilg17)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=for-the-badge&logoColor=fff)](https://www.linkedin.com/in/daniilg17/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white)](https://t.me/daniilg17)
