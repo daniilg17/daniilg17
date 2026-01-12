@@ -68,6 +68,3 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=for-the-badge&logoColor=fff)](https://www.linkedin.com/in/daniilg17/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white)](https://t.me/daniilg17)
 [![VK](https://img.shields.io/badge/VK-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/daniilg17)
-
-## 📊 Статистика
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniilg17&show_icons=true&theme=radical)](https://github.com/daniilg17/github-readme-stats)
